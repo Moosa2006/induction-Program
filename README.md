@@ -35,6 +35,16 @@ Dr. Priya Darshni’s session was eye-opening. She highlighted the importance of
 Dr. Jaswinder Singh spoke passionately about the need for scientific curiosity in an engineer's life. He shared real-life applications and inspired us to participate in knowledge-building platforms like IAPT. The lecture encouraged us to develop critical thinking and a deeper understanding of physics.
 
 
+### English test --> 30 minutes 
+### break --> 5 minutes 
+### Maths test --> 30 minutes 
+
+
+
+
+## * Day 3
+
+## Session 1 : introduction to causmic club and github tutorial 
 
 ---
 
