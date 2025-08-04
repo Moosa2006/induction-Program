@@ -44,7 +44,7 @@ Dr. Jaswinder Singh spoke passionately about the need for scientific curiosity i
 
 ## * Day 3
 
-## Session 1 : introduction to causmic club and github tutorial 
+### Session 1 : introduction to causmic club and github tutorial 
 
 ---
 
