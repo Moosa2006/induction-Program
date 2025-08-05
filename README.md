@@ -46,6 +46,24 @@ Dr. Jaswinder Singh spoke passionately about the need for scientific curiosity i
 
 ### Session 1 : introduction to causmic club and github tutorial 
 
+
+### session 2 : Motorsport basics
+
+
+####**Motorsport** is a broad category of competitive events that involve the use of motorized vehicles, primarily **cars** and **motorcycles**. It's both a professional sport and a high-speed entertainment.
+
+---
+
+#### 🔥 Core Skills in Motorsport
+
+- **High-speed control**
+- **Precision and timing**
+- **Quick decision-making**
+- **Physical and mental endurance**
+- **Team coordination** (engineers, pit crew)
+
+
+
 ---
 
 
