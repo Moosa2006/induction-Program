@@ -70,6 +70,78 @@ Dr. Jaswinder Singh spoke passionately about the need for scientific curiosity i
 
 ## Day 4
 
-### session 1
+### session 1 : Lecture by Dr. Parminder Singh (Dean - Student Welfare)  
+
+#### Dr. Parminder Singh introduced the importance of student welfare in college life, highlighted various student support systems, and encouraged us to stay active in both academics and extracurriculars.
+
+### session 2 : Lecture by Mr. Manpreet Singh – *"Fitness for Engineers"*  
+
+#### Mr. Manpreet Singh emphasized how physical fitness plays a crucial role in an engineer’s productivity and mental well-being. He shared simple routines for staying fit even with a busy schedule. Also continuous questions were asked by students and answers were given by the sir to give clarity.
+
+### session 3 : Lecture by Brigadier P.S. Cheema  
+
+#### Brigadier Cheema delivered a motivational talk on discipline, time management, and leadership. His military insights were inspiring and applicable to engineering students’ journey.
+
+
+### Lunch Break : 12:30 PM - 1:30 PM  
+
+### Physics Lecture  
+**For ECE-A (Room No. F-108)** – Prof. Amarjot Kaur  
+ 
+
+#### The session focused on the foundational concepts of physics relevant to electronics and communication. Basic principles and their practical significance were discussed.The syllabus was also being discussed.
+
+
+### Lecture by Gautam sir
+**For ECE-A ( room no:114 )
+ 
+#### Gautam sir explained how mechanical engineering concepts intersect with electronics and robotics. It was an insightful interdisciplinary session.
+the form was also provided to join the team.
+
+
+## Day 5
+
+### session 1 :  🧪 **Physics Lecture**  
+ Room No. F-112  (Faculty:Prof. Komalpreet Kaur)  
+ 
+ #### Overview of vernier calliper and screw gauge  Discussion on their least counts and their real life application 
+
+---
+
+
+### session 2: 📘 **Mathematics Lecture (Joint Session)**  
+- **Location:** ME Sem Hall  
+- **Faculty:** Prof. Sandeep Kaur Gill  
+
+  discuss about differential equations and their degrees and powers.
+
+
+
+
+### Break : 🕦 11:30 AM – 12:30 PM  
+
+
+---
+
+### session 3: 🎤 **Guest Lecture**  
+- **Speaker:** Dr. Lakhvir Singh Khana (Incharge - CML)  
+ 
+- **Topic:** introduces CML  
+
+#### talk about the CML club, its vission and mission. the qr code was given for who are interested to join 
+
+---
+
+#### 🎤   Dr. Jasvir Singh Grewal (Incharge - NSS)  
+ 
+- **Topic:** Role of NSS in Student Life 
+
+ 
+ #### Overview of National Service Scheme activities. Encouragement to participate in community and social development programs.Musical and drama show was also organised. 
+
+---
+
+
+
 
 
