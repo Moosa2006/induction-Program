@@ -8,7 +8,7 @@
 **Mobile Number (WhatsApp): 9877890312**  
 **Email: moosarajput2006@gmail.com**  
 **Photograph:** **  
-`![My Photo](link-to-your-image.jpg)`  
+ 
 
 
 ---
@@ -141,7 +141,14 @@ the form was also provided to join the team.
 
 ---
 
+## Day 6 ( 08 -08 -25)
 
+### Session 1 : P2P Lecture (11:00 - 12:00)
+#### The basics of C++ Programming was discussed which includes installation,libraries, main function,variables and arrays. The doubts were resolve by our seniors. 
 
+### Break (12:00 - 1:00)
+
+### Session 2 : introduction to workshops ( 2:00 - 3:00)
+#### this sessios cover a wide range of topics—from core technical subjects like programming, electronics, and mechanical design to interdisciplinary areas such as artificial intelligence, robotics, and sustainable engineering. In addition, workshops often include soft skills training, career development, and entrepreneurship, helping students become well-rounded professionals.
 
 
